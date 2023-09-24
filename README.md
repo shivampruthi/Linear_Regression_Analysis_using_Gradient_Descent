@@ -1,10 +1,10 @@
 # Linear_Regression_Analysis_using_Gradient_Descent
 
-This repository contains Python code for performing stock market analysis using linear regression. The project involves utilizing the gradient descent optimization technique to improve the linear regression model's accuracy and predict stock prices based on relevant features.
+This repository contains Python code for performing data analysis using linear regression. The project involves utilizing the gradient descent optimization technique to improve the linear regression model's accuracy.
 
 ## Overview
 
-The main objective of this project is to implement linear regression using gradient descent for analyzing stock market data. The dataset used (`data.csv`) comprises two columns: one representing relevant features related to the stock market (e.g., time, trading volume) and the other representing the corresponding stock prices.
+The main objective of this project is to implement linear regression using gradient descent for analyzing data. The dataset used (`data.csv`) comprises two columns: one representing relevant features related to the stock market (e.g., time, trading volume) and the other representing the corresponding stock prices.
 
 ## Contents
 
